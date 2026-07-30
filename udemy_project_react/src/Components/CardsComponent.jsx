@@ -1,7 +1,7 @@
 function CardsComponent({fruits}){
     return(
     <>
-        <h1>  This is my cards component ... </h1>
+        <h1>  This is my cards component new changes ... </h1>
         <div>
             {fruits.map((frt)=>(
                 <div key={frt.key}>
